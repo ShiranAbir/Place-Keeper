@@ -1,0 +1,54 @@
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    position: inherit;
+    margin: auto;
+}
+header{
+    background-color: #232525b5;
+}
+header h1 {
+    font-family: 'Secular One', sans-serif;
+    color: rgb(196 252 255);
+    text-shadow: 3px 3px #0f1c1c;
+    font-size: 200px;
+}
+
+.form-header{
+    font-size: 60px;
+}
+
+.o-img{
+    height: 125px;
+}
+
+.frmRegister{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    background-color: #232525b5;
+    margin-top: 30px;
+    padding: 50px;
+    padding-left: 0;
+    color: aliceblue;
+}
+
+td{
+    position: relative;
+     padding: 2px;
+     margin: auto;
+     display: flex;
+     justify-content: center;
+     position: relative;
+    left: 50%;
+     
+}
+
+table{
+    font-size: 30px;
+}
+
+
